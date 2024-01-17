@@ -1,0 +1,14 @@
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\bin\Debug\netcoreapp3.1\Class-Inheritance-homework.exe
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\bin\Debug\netcoreapp3.1\Class-Inheritance-homework.deps.json
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\bin\Debug\netcoreapp3.1\Class-Inheritance-homework.runtimeconfig.json
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\bin\Debug\netcoreapp3.1\Class-Inheritance-homework.runtimeconfig.dev.json
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\bin\Debug\netcoreapp3.1\Class-Inheritance-homework.dll
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\bin\Debug\netcoreapp3.1\Class-Inheritance-homework.pdb
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\obj\Debug\netcoreapp3.1\Class-Inheritance-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\obj\Debug\netcoreapp3.1\Class-Inheritance-homework.AssemblyInfoInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\obj\Debug\netcoreapp3.1\Class-Inheritance-homework.AssemblyInfo.cs
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\obj\Debug\netcoreapp3.1\Class-Inheritance-homework.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\obj\Debug\netcoreapp3.1\Class-Inheritance-homework.sourcelink.json
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\obj\Debug\netcoreapp3.1\Class-Inheritance-homework.dll
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\obj\Debug\netcoreapp3.1\Class-Inheritance-homework.pdb
+C:\Users\Farid\Desktop\homewotk\c#\Class-Inheritance-homework\Class-Inheritance-homework\obj\Debug\netcoreapp3.1\Class-Inheritance-homework.genruntimeconfig.cache
